@@ -1,4 +1,4 @@
-# library-Management-system     (prroject on master portion)
+# library-Management-system     (project on master portion)
 How to run this Library Management System Project
 
 1. Download and Unzip file on your local system copy library.

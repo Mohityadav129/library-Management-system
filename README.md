@@ -25,7 +25,4 @@ Username: admin
 Password:Test@123
 
 
-For More Details --- https://phpgurukul.com/online-library-management-system/
-
-
-https://github.com/Mohityadav129/library-Management-system
+For More Details ---  https://github.com/Mohityadav129/library-Management-system
